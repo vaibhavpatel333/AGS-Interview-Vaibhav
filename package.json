@@ -1,0 +1,15 @@
+{
+  "name": "ags-interview-qa",
+  "version": "1.0.0",
+  "description": "Interview Questions for AGS",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
